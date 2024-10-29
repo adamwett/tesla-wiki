@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Welcome to Tesla Wiki!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+To make changes, please
+[fork the repository](https://github.com/adamwett/tesla-wiki) and submit a pull
+request.
 
-## Commands
+## Index
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Vehicles
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Roadster](vehicles/roadster/index.md)
+- [Model S](vehicles/model-s/index.md)
+- [Model X](vehicles/model-x/index.md)
+- [Model 3](vehicles/model-3/index.md)
+- [Model Y](vehicles/model-y/index.md)
+- [Cybertruck](vehicles/cybertruck/index.md)
+- [Semi](vehicles/semi/index.md)
+- [Roadster 2.0](vehicles/roadster-2/index.md)

@@ -1,1 +1,16 @@
 site_name: My Docs
+nav:
+  - Vehicles:
+    - Roadster: vehicles/roadster/index.md
+    - Model S: vehicles/model-s/index.md
+    - Model 3: vehicles/model-3/index.md
+    - Model X: vehicles/model-x/index.md
+    - Model Y: vehicles/model-y/index.md
+    - Cybertruck: vehicles/cybertruck/index.md
+    - Semi: vehicles/semi/index.md
+    - Roadster 2.0: vehicles/roadster-2/index.md
+  - Subscriptions:
+    - Full Self-Driving (FSD): subscriptions/fsd.md
+  - Software:
+    - MCU: software/mcu/index.md
+    - Autopilot: software/autopilot/index.md
