@@ -1,4 +1,4 @@
-# Tesla Wiki
+# [Tesla Wiki](https://adamwett.xyz/tesla-wiki)
 
 There's really no good place to get hard data about Tesla cars. This repository aims to solve that by providing a comprehensive, community-driven resource for Tesla enthusiasts, potential buyers, and researchers.
 
